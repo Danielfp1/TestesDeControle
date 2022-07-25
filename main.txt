@@ -3,3 +3,5 @@ Arquivo do main
 Alteração no branch1
 
 Alteração no branch2
+
+Alteração no branch1
