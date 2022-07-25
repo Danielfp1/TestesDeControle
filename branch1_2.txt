@@ -1,1 +1,3 @@
 Arquivo do branch1_2
+
+Alteração no branch2
